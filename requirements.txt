@@ -1,0 +1,11 @@
+Flask===1.0.2
+Flask-RESTful===0.3.7
+pip===19.0.2
+requests===2.21.0
+pytest
+coverage
+nltk
+textblob
+sklearn
+pandas
+spacy
